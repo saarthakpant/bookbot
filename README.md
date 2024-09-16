@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+BOOKBOT a PYTHON SCRIPT FOR FUNN
